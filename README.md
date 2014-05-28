@@ -6,4 +6,4 @@ Create the folder "libraries" in case it does not exist yet. Place all the files
 To use the library in your own sketch, select it from *Sketch > Import Library*.
 
 -------------------------------------------------------------------------------------------------------------------
-This library is based on work done by DFROBOT (www.dfrobot.com).
+This library is the updated version by DFROBOT (www.dfrobot.com) for use with the Arduino 1.0 IDE.
